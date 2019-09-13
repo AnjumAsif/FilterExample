@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Filter</string>
+    <string name="filter">Filter</string>
+    <string name="filters">Filters</string>
+    <string name="done">Done</string>
+    <string name="brand">Brand</string>
+</resources>
